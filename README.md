@@ -2,6 +2,8 @@
 
 Olá! Eu sou **Raphael Mendonça Riquetto**, estudante de Engenharia de Computação e desenvolvedor em formação, com experiência prática em **Desenvolvimento de Software, Dados, Cloud e Automação**.
 
+🌐 **[Acesse meu portfólio](https://portfolioraphaelriquetto.netlify.app/)**
+
 Este repositório apresenta meu portfólio profissional, reunindo projetos acadêmicos e pessoais, experiências práticas e tecnologias que fazem parte da minha trajetória na área de tecnologia.
 
 ---
